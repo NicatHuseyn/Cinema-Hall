@@ -1,0 +1,11 @@
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\bin\Debug\XalqCinemaHall.exe.config
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\bin\Debug\XalqCinemaHall.exe
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\bin\Debug\XalqCinemaHall.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.csproj.AssemblyReference.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.Properties.Resources.resources
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.csproj.GenerateResource.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.exe
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.pdb
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.Forms.Hall.resources
+C:\Users\Nicat\OneDrive\Рабочий стол\CinemHallApp\XalqCinemaHall\XalqCinemaHall\obj\Debug\XalqCinemaHall.Forms.Input.resources
